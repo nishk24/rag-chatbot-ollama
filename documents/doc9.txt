@@ -1,0 +1,1 @@
+Document 9: Supervised learning requires labeled data to train models.

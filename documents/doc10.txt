@@ -1,0 +1,1 @@
+Document 10: Unsupervised learning identifies patterns in data without labeled outputs.

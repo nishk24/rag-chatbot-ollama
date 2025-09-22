@@ -1,0 +1,1 @@
+Document 6: Reinforcement Learning is a type of learning where an agent learns by interacting with its environment.
